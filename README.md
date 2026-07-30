@@ -1,27 +1,77 @@
-# Rachit
+<h1 align="left">Hi there, I'm Rachit Mittal 👋</h1>
 
-Building, learning, and documenting the process.
+<h3 align="left">A second-year AIML engineering student from Bangalore, India</h3>
 
----
+<p align="left">
+  I like building at the intersection of AI, systems, and product.<br>
+  Lately that has meant macOS agent experiments, federated learning, computer vision, and small prototypes that teach me something real.
+</p>
 
-I’m a second-year engineering student who likes turning curiosity into small projects.
+###
 
-Most of my repos are experiments, notebooks, and practice builds — not polished products, but real evidence of learning.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rxchitrx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rxchitrx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages graph" />
+</div>
 
-## What I’m into
+###
 
-- software experiments
-- AI/ML exploration
-- robotics / systems curiosity
-- improving fundamentals
-- shipping things before they feel perfect
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
 
-## What this profile represents
+###
 
-A work in progress.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+</div>
 
-I’m here to build better, learn faster, and make the next project cleaner than the last.
+###
 
-## Contact
+<p align="left">
+  <strong>What I'm building:</strong><br>
+  • Voice-first and ambient macOS experiences<br>
+  • AIML projects with a focus on learning by shipping<br>
+  • Experiments in federated learning, vision, and agentic interfaces
+</p>
 
-GitHub: @rxchitrx
+###
+
+<p align="left">
+  <strong>Featured projects:</strong><br>
+  <a href="https://github.com/rxchitrx/bmo-companion">BMO Companion</a> •
+  <a href="https://github.com/rxchitrx/FedAvg">FedAvg</a> •
+  <a href="https://github.com/rxchitrx/T-Vault">T-Vault</a> •
+  <a href="https://github.com/rxchitrx/voice-vision">voice-vision</a>
+</p>
+
+###
+
+<div align="left">
+  <a href="https://github.com/rxchitrx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+  <a href="mailto:rachitmital@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rxchitrx/rxchitrx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rxchitrx/rxchitrx/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/rxchitrx/rxchitrx/output/github-snake.svg" />
+</picture>
