@@ -18,7 +18,8 @@ jobs:
       - name: Generate snake files
         uses: Platane/snk@v3
         with:
-          github_user_name: rxchitrx
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.SNAKE_GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
