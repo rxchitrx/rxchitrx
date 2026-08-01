@@ -7,20 +7,8 @@
   Lately that has meant macOS agent experiments, federated learning, computer vision, and small prototypes that teach me something real.
 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rxchitrx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rxchitrx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages graph" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
-
-###
-
 <div align="left">
+  <strong>Tools I use:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
