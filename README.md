@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Rachit Mittal 👋</h1>
 
-<h3 align="left">A second-year AIML engineering student from Bangalore, India</h3>
+<h3 align="left">A Third-year AIML engineering student from Bangalore, India</h3>
 
 <p align="left">
   I like building at the intersection of AI, systems, and product.<br>
