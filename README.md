@@ -3,6 +3,14 @@
 <h3 align="left">A Third-year AIML engineering student from Bangalore, India</h3>
 
 <p align="left">
+  <a href="https://www.moksh.site/"><img src="https://img.shields.io/badge/MOKSH-IS%20LIVE-7C3AED?style=for-the-badge&logo=apple&logoColor=white" alt="Moksh is live" /></a>
+  <br>
+  <strong>moksh — Hindu Scriptures, reimagined.</strong><br>
+  Read the Bhagavad Gita and Mahabharata in a calm, modern app.
+  <a href="https://www.moksh.site/">Visit moksh.site →</a>
+</p>
+
+<p align="left">
   I like building at the intersection of AI, systems, and product.<br>
   Lately that has meant macOS agent experiments, federated learning, computer vision, and small prototypes that teach me something real.
 </p>
