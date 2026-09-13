@@ -3,7 +3,7 @@
 <h3 align="left">A Third-year AIML engineering student from Bangalore, India</h3>
 
 <p align="left">
-  <a href="https://www.moksh.site/"><img src="https://img.shields.io/badge/MOKSH-IS%20LIVE-7C3AED?style=for-the-badge&logo=apple&logoColor=white" alt="Moksh is live" /></a>
+  <a href="https://www.moksh.site/"><img src="https://img.shields.io/badge/MOKSH-IS%20LIVE-C9972B?style=for-the-badge&labelColor=8B5E1A&color=E7C66A" alt="Moksh is live" /></a>
   <br>
   <strong>moksh — Hindu Scriptures, reimagined.</strong><br>
   Read the Bhagavad Gita and Mahabharata in a calm, modern app.
